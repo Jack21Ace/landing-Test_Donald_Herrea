@@ -1,1 +1,52 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar{
+    background-color: #e3f2fd;
+}
+
+.singUp{
+    position: absolute;
+    right: 0;
+
+}
+
+.banner{
+    background: url(assets/img/banner.jpg) no-repeat center center fixed;
+    -webkit-backdrop-size: cover;
+    -moz-backdrop-size: cover;
+    -o-backdrop-size: cover;
+    background-size: cover;
+    height: 500px;
+}
+
+.banner input {
+    background-color: #dcdcdc;
+    border-radius: 4px;
+}
+.banner h2{
+    float: left;
+    margin-top: 50%;
+}
+
+.banner .form{
+    bottom: 55px;
+}
+
+.title{
+    text-align: center;
+}
+
+.start{
+    text-align: center;
+}
+
+.sent{
+    text-align: center;
+}
+
+.contactUs h1{
+    text-align: center;
+}
+
+.card{
+    position: relative;
+}
